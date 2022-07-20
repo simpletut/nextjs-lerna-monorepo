@@ -1,0 +1,16 @@
+/* COLOURS */
+$bg: #F6F6F6;
+$white: #ffffff;
+$black: #000000;
+$lightGrey: #ebebeb;
+$orange:#f6a21d;
+$dark: #282828;
+
+// CSS Grid
+$contentMaxWidth: 1420px;
+
+@mixin transition {
+  -webkit-transition: all .4s ease-in-out;
+  -moz-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}

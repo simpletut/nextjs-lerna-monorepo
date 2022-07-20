@@ -1,0 +1,14 @@
+@import './../../../styles/variables';
+
+.footer {
+  margin: 80px auto 0;
+  color: $white;
+  background-color: $dark;
+}
+
+.footer .wrap {
+  height: 100%;
+  max-width: $contentMaxWidth;
+  padding: 50px 10px 200px;
+  margin: 0 auto;
+}

@@ -1,0 +1,21 @@
+@import './../../../styles/variables';
+
+.header {
+  margin: 0 auto;
+  background-color: $white;
+}
+
+.header .wrap {
+  height: 100%;
+  max-width: $contentMaxWidth;
+  padding: 50px 10px;
+  margin: 0 auto;
+}
+
+.logo {
+  display: block;
+  font-size: 30px;
+  line-height: 1;
+  color: $black;
+  text-transform: uppercase;
+}

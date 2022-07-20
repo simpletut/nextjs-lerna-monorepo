@@ -1,0 +1,12 @@
+.env
+node_modules
+.DS_Store
+.next
+package-lock.json
+dist
+tsconfig.tsbuildinfo
+*.log
+.idea
+.npmrc
+.env.development.minet
+logs
