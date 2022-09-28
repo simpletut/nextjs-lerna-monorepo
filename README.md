@@ -23,4 +23,4 @@ Build and maintain your websites using Next JS and Shared Components
 
 ## Documentation
 
-For technical docs, see the [wiki](https://github.dowjones.net/FinancialNews/people-lists.app/wiki).
+For technical docs, see the [wiki](https://github.com/simpletut/nextjs-lerna-monorepo/wiki).
